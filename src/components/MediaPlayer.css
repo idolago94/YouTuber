@@ -1,0 +1,19 @@
+.quotes > div {
+    border: 2px solid royalblue;
+    margin: 5px;
+} 
+
+.quotes > div > span {
+    margin: 5px;
+    font-weight: bold
+}
+
+.quotes > div > label {
+    position: relative;
+    float: right;
+}
+
+.quotes > h4 > span {
+    position: relative;
+    float: right;
+}
